@@ -1,4 +1,4 @@
-### Hi there, my name is Jess Bittencourt 👋
+<h1>Hi there, my name is Jess Bittencourt 👋</h1> 
 - 🌱 I’m currently learning C#, Python.
 - 💬 Ask me about Front-End Development
 - 😄 Pronouns: they/them
