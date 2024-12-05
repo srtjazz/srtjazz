@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C#, Python.
 - 💬 Ask me about Front-End Development.
-- 😄 Pronouns: she/their.
+- 😄 Pronouns: she/her.
 - ⚡ Fun fact: There's a ressemblance between me and a music genre that is quite unique 🎷.
 
 <!--
